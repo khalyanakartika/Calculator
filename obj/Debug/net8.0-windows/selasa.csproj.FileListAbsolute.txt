@@ -1,0 +1,17 @@
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.kalkulator.resources
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.Properties.Resources.resources
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.csproj.GenerateResource.cache
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.AssemblyInfoInputs.cache
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.AssemblyInfo.cs
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.csproj.CoreCompileInputs.cache
+D:\Visual Studio\2022\Project\selasa\bin\Debug\net8.0-windows\selasa.exe
+D:\Visual Studio\2022\Project\selasa\bin\Debug\net8.0-windows\selasa.deps.json
+D:\Visual Studio\2022\Project\selasa\bin\Debug\net8.0-windows\selasa.runtimeconfig.json
+D:\Visual Studio\2022\Project\selasa\bin\Debug\net8.0-windows\selasa.dll
+D:\Visual Studio\2022\Project\selasa\bin\Debug\net8.0-windows\selasa.pdb
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.dll
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\refint\selasa.dll
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.pdb
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.genruntimeconfig.cache
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\ref\selasa.dll
