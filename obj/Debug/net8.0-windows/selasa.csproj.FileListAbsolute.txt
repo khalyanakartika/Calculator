@@ -15,3 +15,4 @@ D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\refint\selasa.dll
 D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.pdb
 D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.genruntimeconfig.cache
 D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\ref\selasa.dll
+D:\Visual Studio\2022\Project\selasa\obj\Debug\net8.0-windows\selasa.sourcelink.json

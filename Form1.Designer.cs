@@ -50,9 +50,10 @@
             // 
             // input_angka
             // 
-            input_angka.BackColor = SystemColors.InactiveCaption;
+            input_angka.BackColor = Color.FromArgb(128, 64, 64);
             input_angka.Cursor = Cursors.IBeam;
-            input_angka.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            input_angka.Font = new Font("Segoe UI", 30F, FontStyle.Bold);
+            input_angka.ForeColor = Color.White;
             input_angka.Location = new Point(16, 27);
             input_angka.Multiline = true;
             input_angka.Name = "input_angka";
@@ -71,6 +72,7 @@
             button_c.TabIndex = 3;
             button_c.Text = "C";
             button_c.UseVisualStyleBackColor = true;
+            button_c.Click += button_c_Click;
             // 
             // button1
             // 
@@ -81,6 +83,7 @@
             button1.TabIndex = 4;
             button1.Text = "1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -91,6 +94,7 @@
             button2.TabIndex = 5;
             button2.Text = "2";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -101,6 +105,7 @@
             button3.TabIndex = 6;
             button3.Text = "3";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -111,6 +116,7 @@
             button4.TabIndex = 7;
             button4.Text = "4";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -121,6 +127,7 @@
             button5.TabIndex = 8;
             button5.Text = "5";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
@@ -131,6 +138,7 @@
             button6.TabIndex = 9;
             button6.Text = "6";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button7
             // 
@@ -141,6 +149,7 @@
             button7.TabIndex = 10;
             button7.Text = "7";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
             // 
             // button8
             // 
@@ -151,6 +160,7 @@
             button8.TabIndex = 11;
             button8.Text = "8";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // button9
             // 
@@ -161,6 +171,7 @@
             button9.TabIndex = 12;
             button9.Text = "9";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
             // 
             // button0
             // 
@@ -171,6 +182,7 @@
             button0.TabIndex = 13;
             button0.Text = "0";
             button0.UseVisualStyleBackColor = true;
+            button0.Click += button0_Click;
             // 
             // button_koma
             // 
@@ -181,6 +193,7 @@
             button_koma.TabIndex = 14;
             button_koma.Text = ".";
             button_koma.UseVisualStyleBackColor = true;
+            button_koma.Click += button_koma_Click;
             // 
             // button_kali
             // 
@@ -192,6 +205,7 @@
             button_kali.TabIndex = 15;
             button_kali.Text = "*";
             button_kali.UseVisualStyleBackColor = true;
+            button_kali.Click += button_kali_Click;
             // 
             // button_bagi
             // 
@@ -202,6 +216,7 @@
             button_bagi.TabIndex = 16;
             button_bagi.Text = "/";
             button_bagi.UseVisualStyleBackColor = true;
+            button_bagi.Click += button_bagi_Click;
             // 
             // button_tambah
             // 
@@ -212,6 +227,7 @@
             button_tambah.TabIndex = 17;
             button_tambah.Text = "+";
             button_tambah.UseVisualStyleBackColor = true;
+            button_tambah.Click += button_tambah_Click;
             // 
             // button_kurang
             // 
@@ -222,6 +238,7 @@
             button_kurang.TabIndex = 18;
             button_kurang.Text = "-";
             button_kurang.UseVisualStyleBackColor = true;
+            button_kurang.Click += button_kurang_Click;
             // 
             // button_samadengan
             // 
@@ -232,6 +249,7 @@
             button_samadengan.TabIndex = 19;
             button_samadengan.Text = "=";
             button_samadengan.UseVisualStyleBackColor = true;
+            button_samadengan.Click += button_samadengan_Click;
             // 
             // kalkulator
             // 
