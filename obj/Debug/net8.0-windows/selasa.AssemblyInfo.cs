@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("selasa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28e453504144da686eee698df16dfe0bcbf403ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e145460bec35178cc49d41cac25834a35897793e")]
 [assembly: System.Reflection.AssemblyProductAttribute("selasa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("selasa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
